@@ -6,6 +6,6 @@ seo:
   robots: index,follow
   image: ""
 content:
-url: /cs/
+url: /cy/
 translationKey: homepage
 ---

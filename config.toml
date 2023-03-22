@@ -1,6 +1,6 @@
 # basic site settings
-title = "project-name"
-baseURL = "https://www.project-name.com/"
+title = "egin"
+baseURL = "https://egin.uk/"
 
 # language settings
 languageCode = "en-us"
@@ -27,12 +27,12 @@ filename = "sitemap.xml"
 cloudinaryPrefix = "https://res.cloudinary.com/project-name/image/upload"
 googleAnalyticsId = ""
 
-[languages.cs]
-    contentDir = "content/cs"
-    languageName = "Čeština"
+[languages.cy]
+    contentDir = "content/cy"
+    languageName = "Cymraeg"
     weight = 1
-    [languages.cs.params]
-        locale = "cs_CZ"
+    [languages.cy.params]
+        locale = "cy_CY"
 [languages.en]
     contentDir = "content/en"
     languageName = "English"
